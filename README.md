@@ -39,14 +39,7 @@ Consistency | Learning | Building
 
 ---
 ---
-<div align="center">
 
-<!-- CAT ANIMATION -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
