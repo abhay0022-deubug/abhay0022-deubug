@@ -47,7 +47,7 @@ Consistency | Learning | Building
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Java+Developer;Future+Cloud+Engineer; Lifelong+Learner;Building+My+Future+One+Commit+At+A+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Java+Developer;Future+Cloud+Engineer; Lifelong+Learner;Building+My+Future+One+Commit+At+A+Time"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
