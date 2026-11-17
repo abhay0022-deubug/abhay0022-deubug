@@ -50,6 +50,7 @@ Consistency | Learning | Building
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
+<!-- Contribution Snake -->
 ---
 <h2 align="center">📊 GitHub Statistics</h2>
 
