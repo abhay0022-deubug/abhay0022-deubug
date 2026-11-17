@@ -44,7 +44,7 @@ Consistency | Learning | Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhay0022-debug&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=abhay0022-debug&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay0022-debug&theme=github-dark-blue&hide_border=true" width="48%" />
 
