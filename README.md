@@ -6,7 +6,7 @@
 
 # Hey, I'm Abhay Singh 👋
 ---
-### 💻 Java Develope ### ☁️ Future Cloud Engineer### 📚 Lifelong Learner### Aspiring Software Engineer 💻
+### 💻 Java Developer ### ☁️ Future Cloud Engineer### 📚 Lifelong Learner### Aspiring Software Engineer 💻
 
 
 CSE Student | Java Developer | Tech Enthusiast
@@ -72,4 +72,11 @@ Consistency | Learning | Building
 
 <p align="center">
   ❤️ Thanks for visiting my profile!
-</p>
+</p><div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=abhay0022-deubug&label=PROFILE+VIEWS&color=ff4d4d&style=for-the-badge" />
+
+</div>
+
