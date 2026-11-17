@@ -66,6 +66,9 @@ Consistency | Learning | Building
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abhay0022-deubug&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=ff7777&border=ff0000" width="85%" />
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
 
 <p align="center">
   ❤️ Thanks for visiting my profile!
