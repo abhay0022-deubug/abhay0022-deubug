@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hey, I'm Abhay Singh 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=header"/>
+</div>
 
 ### Aspiring Software Engineer 💻
 
