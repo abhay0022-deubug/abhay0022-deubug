@@ -51,6 +51,9 @@ Consistency | Learning | Building
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
 <!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhay0022-deubug/abhay0022-deubug/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 ---
 <h2 align="center">📊 GitHub Statistics</h2>
 
