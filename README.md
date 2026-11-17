@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abhay0022-deubug/abhay0022-deubug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Abhay Singh 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Engineer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSE Student | Java Developer | Tech Enthusiast
+
+Building my skills and creating my own journey in technology.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- ☕ Learning Java Programming
+- 💡 Interested in Software Development
+- 🚀 Working towards becoming a Software Engineer
+- 🌱 Learning something new every day
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
+
+## 🎯 Current Goals
+
+- Master Java fundamentals
+- Start Data Structures & Algorithms
+- Build practical projects
+- Explore Cloud Computing
+
+## 📊 My Developer Journey
+
+Consistency | Learning | Building
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
