@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7f0000,100:ff4d4d&height=200&section=header&text=ABHAY%20SINGH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+
+</div><div align="center">
+
 # Hey, I'm Abhay Singh 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=header"/>
