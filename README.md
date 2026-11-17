@@ -39,15 +39,11 @@ Consistency | Learning | Building
 
 ---
 ---
-
-
 ## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay0022-deubug&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhay0022-deubug&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000" width="48%"/>
 
-</div>
 
 ## 🔥 Current Streak
 
