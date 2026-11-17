@@ -39,15 +39,18 @@ Consistency | Learning | Building
 
 ---
 ---
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay0022-deubug&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff4d4d&icon_color=ff0000&border_color=ff0000" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Abhay0022-deubug&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ff4d4d&sideNums=ff4d4d&dates=ffffff&border=ff0000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay0022-deubug&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" width="85%" />
 </p>
 
-<div align="center">
+<h2 align="center">🔥 Current Streak</h2>
 
-**Thanks for visiting my profile! ⭐**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhay0022-deubug&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=ff7777&border=ff0000" width="85%" />
+</p>
 
-</div>
+<p align="center">
+  ❤️ Thanks for visiting my profile!
+</p>
