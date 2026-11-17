@@ -39,13 +39,28 @@ Consistency | Learning | Building
 
 ---
 ---
+<div align="center">
+
+<!-- CAT ANIMATION -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhay0022-deubug&show_icons=true&bg_color=0d1117&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&border_color=ff4d4d" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhay0022-deubug&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000" width="48%"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay0022-deubug&theme=dark&background=0d1117&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=ffffff&border=ff4d4d" />
+</div>
+
+## 🔥 Current Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay0022-deubug&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ff0000&sideNums=ffffff&dates=ff6666&stroke=ff0000" width="65%"/>
 
 </div>
 
