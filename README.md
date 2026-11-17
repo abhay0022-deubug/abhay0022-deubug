@@ -6,12 +6,8 @@
 
 # Hey, I'm Abhay Singh 👋
 ---
-### 💻 Java Developer
-### ☁️ Future Cloud Engineer
-### system designer 
-### 📚 Lifelong Learner
+### 💻 Java Develope ### ☁️ Future Cloud Engineer### 📚 Lifelong Learner### Aspiring Software Engineer 💻
 
-### Aspiring Software Engineer 💻
 
 CSE Student | Java Developer | Tech Enthusiast
 
